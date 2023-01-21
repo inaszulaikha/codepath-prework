@@ -4,7 +4,7 @@
 
 ### App Walk-through
 
-![](https://github.com/inaszulaikha/codepath-prework/blob/main/Inas-Codepath-Prework.gif)
+![](https://github.com/inaszulaikha/codepath-prework/blob/main/Inas-Prework.gif)
 
 ### Required Features
 
