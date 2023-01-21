@@ -2,9 +2,9 @@
 
 ### An app to introduce yourself and your number of pets!
 
-### App Walk-though
+### App Walk-through
 
-![](https://github.com/inaszulaikha/codepath-prework/blob/main/Inas-Codepath-Prework.gif)
+![](https://github.com/inaszulaikha/codepath-prework/blob/main/Inas-Codepath-Prework.gif)<width=200>
 
 ### Required Features
 
