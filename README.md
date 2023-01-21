@@ -4,7 +4,7 @@
 
 ### App Walk-though
 
-<!-- <img src="Inas-Codepath-Prework.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<!-- <img src="https://github.com/inaszulaikha/codepath-prework/blob/18417963e7bd3a0c8b0f6ddef9c011f04ccc0c45/Inas-Codepath-Prework.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 ### Required Features
 
